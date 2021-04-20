@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, rgba(139, 80, 25, 0.644), rgba(38, 255, 0, 0.767));
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+  grid-auto-rows: minmax(50px, auto); */
+}
