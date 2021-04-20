@@ -1,6 +1,9 @@
 # Avery Organix
-## Authored by: Michael Kriegel, Zack Rutledge, Woo Jin Kim
+## Authored by: Michael Kriegel, Zack Rutledge, and Woo Jin Kim
+### _This project was created solely for the education of the author(s) and is not in a complete or portfolio-ready state. It should not be considered representative of professional work._
+---
 ### Description
+Farmer's Market website built for Avery Organic's and their needs created in React.
 
 ---
 ## React Schema
@@ -79,6 +82,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Reach Zack via <a href="https://www.linkedin.com/in/zack-rutledge762/" target="_blank">Linkedin</a> or <a href="thorgrim88@gmail.com" target="_blank">email</a></li>.
 
-Reach Michael via <a href="https://www.linkedin.com/in//" target="_blank">Linkedin</a> or <a href="" target="_blank">email</a></li>.
+Reach Michael via <a href="https://www.linkedin.com/in/michael-kriegel/" target="_blank">Linkedin</a> or <a href="mikkrieg@gmail.com" target="_blank">email</a></li>.
 
-Reach Wooj via <a href="https://www.linkedin.com/in//" target="_blank">Linkedin</a> or <a href="" target="_blank">email</a></li>.
+Reach Woo Jin via <a href="https://www.linkedin.com/in//" target="_blank">Linkedin</a> or <a href="" target="_blank">email</a></li>.
